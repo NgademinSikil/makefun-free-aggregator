@@ -1,0 +1,6 @@
+.env
+*.log
+node_modules/
+# Kit reference material — never part of the submission repo (size caps).
+free-model-aggregator-02-kit/
+kit.tar.gz
